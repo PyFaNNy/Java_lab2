@@ -119,6 +119,7 @@ public class Main_Frame extends JFrame {
         y_field.setMaximumSize(x_field.getPreferredSize());
         z_field = new JTextField("0",10);
         z_field.setMaximumSize(x_field.getPreferredSize());
+        z_field.setMaximumSize(x_field.getPreferredSize());
         JLabel x_label=new JLabel("X:");
         JLabel y_label=new JLabel("Y:");
         JLabel z_label=new JLabel("Z:");
